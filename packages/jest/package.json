@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/jest"
+    "url": "https://github.com/saminfante/jest"
   },
   "homepage": "https://jestjs.io/",
   "license": "MIT",
